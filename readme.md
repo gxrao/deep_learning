@@ -16,7 +16,13 @@ tensorflow version: tensorflow-gpu 1.6
 
 # 2018-4-1 
 
-add files : cnn_simple.py 
+* add file : cnn_simple.py 
 
-create a convolutional neural networks(cnn) on MNIST datasets, include two hidden layers , one full connection layer and one ouuput layer.
+create a convolutional neural networks(cnn) on MNIST datasets, include two hidden layers , one full connection layer and one output layer.Finally,save the model to apply it.
+
+* add file: model_apply.py
+
+restore the graph of cnn_simple and apply it to predict images
+
+
 
