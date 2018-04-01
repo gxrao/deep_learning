@@ -4,6 +4,14 @@ code in learning deep learning, based on tensorflow
 
 the goal of this repository is rcording all code when I learn deep learning and sharing with others.
 
+runing environment：
+
+os: win10
+
+python version: 3.6
+
+tensorflow version: tensorflow-gpu 1.6
+
 
 
 # 2018-4-1 
